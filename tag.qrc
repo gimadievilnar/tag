@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/tag"/>
+    <qresource prefix="/">
+        <file>VinniePooh.bmp</file>
+        <file>VinniePooh_01.bmp</file>
+        <file>VinniePooh_02.bmp</file>
+        <file>VinniePooh_03.bmp</file>
+        <file>VinniePooh_04.bmp</file>
+        <file>VinniePooh_05.bmp</file>
+        <file>VinniePooh_06.bmp</file>
+        <file>VinniePooh_07.bmp</file>
+        <file>VinniePooh_08.bmp</file>
+        <file>VinniePooh_09.bmp</file>
+        <file>VinniePooh_10.bmp</file>
+        <file>VinniePooh_11.bmp</file>
+        <file>VinniePooh_12.bmp</file>
+        <file>VinniePooh_13.bmp</file>
+        <file>VinniePooh_14.bmp</file>
+        <file>VinniePooh_15.bmp</file>
+        <file>tag.bmp</file>
+    </qresource>
+</RCC>
